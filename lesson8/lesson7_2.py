@@ -1,4 +1,4 @@
-import tools
+import lesson7.widget.tools as tools
 while True:
     try:
         name = input("請輸入姓名: ")
